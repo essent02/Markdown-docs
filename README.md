@@ -118,9 +118,9 @@ ___жирний курсив___
 ```
 ![Текст опису](https://www.example.com/image.jpg)
 ```
-***Пример:***
+***Приклад:***
 
-![Текст опису](hhttps://avatars.githubusercontent.com/u/147099511?v=4)
+![Текст опису](https://avatars.githubusercontent.com/u/147099511?v=4)
 ---
 
 ## Блоки коду
